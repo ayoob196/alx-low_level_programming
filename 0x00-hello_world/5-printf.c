@@ -2,7 +2,6 @@
 /**
  *main - main
  *Return: return 
- *
  */
 
 int main(void)
