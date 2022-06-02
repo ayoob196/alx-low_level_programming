@@ -3,7 +3,7 @@
 
 /**
  * main - size of some data types
- * Return: exit status returned    
+ * Return: exit status returned by the return statement    
  */
 
 int main(void)
