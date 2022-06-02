@@ -2,7 +2,7 @@
 
 
 /**
- * main - size of some data types
+ * main - size of some data types and format the output
  * Return: 0 if exited properly, non-zero otherwise 
  */
 
