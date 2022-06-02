@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 /**
- * main - main
- * Return: return 
+ * main - it will print something
+ * Return: then it returns something
  */
 int main(void)
 {
