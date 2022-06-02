@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*
- *this program prints some text
+ * msin - this program prints some text
  *
  */
 int main(void)
