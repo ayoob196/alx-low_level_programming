@@ -2,9 +2,8 @@
 
 
 /**
- * main - size of 
- * Return: exit status
- *    
+ * main - size of some data types
+ * Return: exit status returned    
  */
 
 int main(void)
