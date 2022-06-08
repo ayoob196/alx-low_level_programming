@@ -1,6 +1,9 @@
 #include"main.h"
 /**
  * add - hello
+ * @a:  helo
+ * @b: helo
+ * Return: helo
  */
 int add(int a, int b)
 {
@@ -8,5 +11,5 @@ int add(int a, int b)
 
 	c = a + b;
 
-	return c;
+	return (c);
 }
