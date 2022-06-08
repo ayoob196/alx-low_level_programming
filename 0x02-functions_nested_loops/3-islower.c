@@ -2,6 +2,7 @@
 /**
  * _islower - hello
  * Return: hello
+ * @c: hello
  */
 int _islower(int c)
 {
