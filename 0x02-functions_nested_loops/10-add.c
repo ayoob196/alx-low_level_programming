@@ -2,7 +2,7 @@
 /**
  * add - hello
  */
-int add(int a, int a)
+int add(int a, int b)
 {
 	int c;
 
