@@ -1,6 +1,7 @@
 #include"main.h"
 /**
  * _islower - hello
+ * Return: hello
  */
 int _islower(int c)
 {
