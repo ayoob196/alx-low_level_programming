@@ -4,5 +4,9 @@
  */
 int add(int a, int a)
 {
-	return (a + b);
+	int c;
+
+	c = a + b;
+
+	return c;
 }
