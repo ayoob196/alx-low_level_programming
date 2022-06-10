@@ -1,6 +1,6 @@
 #include"main.h"
 /**
- * mroe_numbers
+ * mroe_numbers - a
  */
 
 void more_numbers(void)
