@@ -3,7 +3,6 @@
  * print_triangle - sv
  * @size: dsa
  */
-
 void print_triangle(int size)
 {
 	if (size <= 0)
