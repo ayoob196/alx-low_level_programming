@@ -5,8 +5,7 @@
 /**
  * main - tests function that prints if integer is positive or negative
  * positive_or_negative - helo
- * @i: helo
- * return: helo
+ * Return: helo
  */
 int main(void)
 {
