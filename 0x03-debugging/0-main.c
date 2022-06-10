@@ -10,7 +10,7 @@
  */
 void postitive_or_negative(int i)
 {
-	int n = i;
+	int n = 0;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
