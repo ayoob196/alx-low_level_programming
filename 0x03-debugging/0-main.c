@@ -4,11 +4,11 @@
 #include <stdio.h>
 /**
  * main - tests function that prints if integer is positive or negative
- * postitive_or_negative - helo
+ * positive_or_negative - helo
  * @i: helo
  * return: helo
  */
-void postitive_or_negative(int i)
+void positive_or_negative(int i)
 {
 	int n = i;
 
