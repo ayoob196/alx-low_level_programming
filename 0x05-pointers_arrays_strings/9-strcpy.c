@@ -3,6 +3,7 @@
  * *_strcpy - as
  * @dest: d
  * @src: s
+ * Return: d
  */
 
 char *_strcpy(char *dest, char *src)
