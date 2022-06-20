@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * *_strspn - s
+ * _strspn - s
  * @s: d
  * @accept: s
  * Return: d
