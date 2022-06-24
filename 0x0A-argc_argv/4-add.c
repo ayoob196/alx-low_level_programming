@@ -74,5 +74,5 @@ int main(int argc, char *argv[])
 		}
 	}
 	printf("%d\n", sum);
-	return s0);
+	return (0);
 }
