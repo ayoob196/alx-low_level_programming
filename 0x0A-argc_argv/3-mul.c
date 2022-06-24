@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * @_atoi - d
+ * _atoi - d
  * @s: d
  * Return: d
  */
