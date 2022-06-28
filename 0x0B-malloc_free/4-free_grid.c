@@ -3,7 +3,7 @@
 /**
  * free_grid - a
  * @grid: d
- * @heiht: ds
+ * @height: ds
  */
 void free_grid(int **grid, int height)
 {
