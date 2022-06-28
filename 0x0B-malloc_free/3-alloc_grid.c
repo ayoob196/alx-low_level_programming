@@ -3,7 +3,7 @@
 /**
  * **alloc_grid - d
  * @width: d
- * @heiht: d
+ * @height: d
  * Return: d
  */
 int **alloc_grid(int width, int height)
@@ -33,7 +33,7 @@ int **alloc_grid(int width, int height)
 	{
 		for (j = 0; j < width; j++)
 		{
-			arr[i][j] = 0;		
+			arr[i][j] = 0;
 		}
 	}
 	return (arr);
