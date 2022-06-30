@@ -1,8 +1,8 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 #include "main.h"
 /**
- * malloc_checked - a
- * @a: d
+ * *malloc_checked - a
+ * @b: d
  */
 void *malloc_checked(unsigned int b)
 {
