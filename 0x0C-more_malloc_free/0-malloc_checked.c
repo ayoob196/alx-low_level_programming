@@ -3,6 +3,7 @@
 /**
  * *malloc_checked - a
  * @b: d
+ * Return: d
  */
 void *malloc_checked(unsigned int b)
 {
